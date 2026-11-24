@@ -1,0 +1,14 @@
+stock.bin SHA256: 162faeecc64bf56d828570168785e66d1a7da0152ef912bf83f9a19094d91edf
+Compressed source: 0x08076F44; consumed 1823; restored 3597 bytes
+0x20000940: type=0x09, length=30, ptr=0x20022BF0
+  Runtime name buffer; live content not recovered
+0x2000094C: type=0x07, length=16, ptr=0x080762C0
+  data: ff ca ca de af de ca de de fa ca de 00 00 00 00
+  UUID: 00000000-deca-fade-deca-deafdecacaff
+0x20000958: type=0x03, length=6, ptr=0x08076B50
+  data: 00 10 01 11 00 12
+  UUID16: 0x1000, 0x1101, 0x1200
+0x20000964: type=0x0A, length=1, ptr=0x00000000
+  NULL at startup; not a recovered TX power value
+PASS: all four initialization descriptors verified.
+No device connected. No firmware modified. Live EIR and iAP version unverified.

@@ -1,0 +1,7 @@
+PASS: existing name/SPP retained, iAP inserted and deduplicated
+PASS: merge existing UUID128 list and preserve subsequent field
+PASS: no space, malformed field, invalid UUID list, alias rejection
+   text	   data	    bss	    dec	    hex	filename
+    438	      0	      0	    438	    1b6	/tmp/nd_v09_core.o
+PASS: disabled lab default, channel collision, missing backend, failure rollback, successful call order (mock only)
+PASS: explicit lab mode changes EIR only; no RFCOMM or SDP
